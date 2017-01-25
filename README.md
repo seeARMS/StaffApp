@@ -8,6 +8,6 @@ This repository contains all the code for HyreStaff mobile app.
 
 This project is written in React Native.
 
-### Instalation
+### Installation
 
 Follow the documentation.
